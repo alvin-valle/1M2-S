@@ -1,2 +1,2 @@
-# 1M2-S
+# Metodos Numericos
 INGENIERO DE SISTEMAS
